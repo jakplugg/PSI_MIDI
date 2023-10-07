@@ -12,3 +12,5 @@ ground is not needed on the input jack, it could cause a ground loop if the sour
 The resistor, opto coupler, and jacks are your existing ones, the only new components you would add yo your BOM are the 2 BAT54S diodes.
 
 Don't substituste other letter suffixed BAT54, they are not graded by letter, but wired differently in the package.
+
+The jack shown in the schematic is wrong (due to laziness), the inputs should be connected to the tip and ring of a 3.5mm TRS jack.
